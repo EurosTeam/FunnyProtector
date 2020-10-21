@@ -1,0 +1,4 @@
+no more exec trace: O&N
+make a better string cipher: O
+add more reverse protection: file hash verify,verify opened software: N
+check if the file it's an executable: O

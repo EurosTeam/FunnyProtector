@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+body
+{
+	font-family: "Raleway", sans-serif;
+	background-color: #dbdbdb;
+}
+
+#login
+{
+	font-size: 1.3em;
+}
+
+#register a
+{
+	font-size: 1.2em;
+	text-decoration: none;
+	transition-duration: 0.4s;
+}
+
+#register a:visited
+{
+	color: blue;
+}
+
+#register a:hover
+{
+	color: white;
+	transition-duration: 0.4s;
+}
+
+input[type="submit"]
+{
+	cursor: pointer;
+	border: none;
+	background-color: black;
+	border-radius: 3px;
+	color: white;
+	padding: 14px 40px;
+	transition-duration: 0.7s;
+}
+
+input[type="submit"]:hover
+{
+	background-color: white;
+	color: black;
+	transition-duration: 0.7s;
+}
+
+#registered
+{
+	color: green;
+	font-size: 2em;
+}
+
+#notlogged
+{
+	color: red;
+	font-size: 2em;
+}
+
+#dashboard
+{
+	font-size: 1.3em;
+}
+
+#dashboard a
+{
+	text-decoration: none;
+}
+
+#dashboard a:visited
+{
+	color: blue;
+}
+
+#howto
+{
+	border: none;
+}
+
+#howto a
+{
+	text-decoration: none;
+}
+
+#howto a:visited
+{
+	color: blue;
+}
+
+#tips a:visited
+{
+	color: blue;
+}
+
+#tips a
+{
+	text-decoration: none;
+}
+
+#tips a:hover
+{
+	transition: 0.7s;
+	color: white;
+}
+
+#protectionguide
+{
+	
+}
