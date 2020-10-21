@@ -1,8 +1,6 @@
 # FunnyProtector
 Strong Python Obfuscator & Protector
 
-:star: Improvements and upgrades -> Weekly :star:
-
 ## Information
 :lock:**FunnyProtector**:lock:
 
@@ -19,5 +17,3 @@ Strong Python Obfuscator & Protector
 ![fun](https://image.noelshack.com/fichiers/2020/41/5/1602258128-gui1.png)
 
 ![fun2](https://image.noelshack.com/fichiers/2020/41/5/1602258129-gui2.png)
-## Price
-Pay once, keep it lifetime: 20€.
