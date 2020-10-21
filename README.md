@@ -4,7 +4,7 @@ Strong Python Obfuscator & Protector
 ## Information
 :lock:**FunnyProtector**:lock:
 
-✅ **FunnyProtector protect against cracker and reverse engineer.** ✅
+✅ **FunnyProtector protect against cracker and reverse engineer.** ✅   
 ✅ **With FunnyProtector you can sell your python script with no fear of cracker.** ✅
 
 ## Before
